@@ -1,6 +1,6 @@
 # web-scraper-and-data-visualizer
 
-#### This script scrapes data with Scrapy from multiple sources with multiple spiders then visualizes the data with plotly. 
+#### This script uses the Scrapy library to scrape data from a website and store it in a Pandas dataframe. The data is then cleaned and transformed as needed before being passed to Plotly for visualization. The final visualizations are displayed in a web-based interface, allowing users to easily explore and analyze the data. Overall, your script provides a powerful tool for extracting, cleaning, and visualizing data from the web. 
 
 ---
 ### Example Data Used
